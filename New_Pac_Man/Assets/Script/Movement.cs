@@ -10,7 +10,7 @@ public class Movement : MonoBehaviour {
 	void Start () {
 
 		direction = new Vector2(10,10);
-	
+		//TEST
 			
 
 	}
