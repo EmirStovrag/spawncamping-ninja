@@ -1,0 +1,8 @@
+1. Create the platform
+2. Create boxes
+3. Create Pacman
+4. Create movement for packman
+5. Create points on platform
+6. Create highscore
+7. Create ghosts
+8. Additional attributes 
